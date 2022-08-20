@@ -3,9 +3,9 @@ entries:
   my-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-20T17:47:22.020596848+08:00"
+    created: "2022-08-20T19:42:07.988832633+08:00"
     description: A Helm chart for Kubernetes
-    digest: 7eeba4795130cc2c1999ffdd53542da53d7ab9402a4dbd894c7350bd3bca60e1
+    digest: e5373f02b0da98a421bffd98c366251a2d5851be6bb4e15fcbd7dee0f589cfbb
     name: my-nginx
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-20T17:47:22.020094205+08:00"
+    created: "2022-08-20T19:42:07.988324019+08:00"
     description: A Helm chart for Kubernetes
     digest: dd62a69cd881433b5ea5e8b9846107779b68897c78e4e3b35387cebd65e6f877
     name: my-nginx
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://focus617.github.io/Helm3/trial/my-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-20T17:47:22.019430405+08:00"
+generated: "2022-08-20T19:42:07.987667889+08:00"
